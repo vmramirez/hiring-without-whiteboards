@@ -120,6 +120,7 @@ I'm in the process of extracting everything into an Airtable sheet. You can view
 - [Funda](https://www.funda.nl/vacatures) | Amsterdam, The Netherlands | Take Home test + Discussion On-Site/Remote
 
 ## G - I
+- [GitHub](https://github.com/about/careers) | Remote | Take-home test, Interpersonal Interview, Final Round interviews either done onsite or Remotely
 - [GitLab](https://about.gitlab.com/jobs/) | Remote | General technical questions, [an issue](https://gitlab.com/gitlab-org/gitlab-ce/issues) to work in a 1-hour screen sharing session
 - [GoCardless](https://gocardless.com/about/jobs/) | London, UK | Project to work at home, general technical questions, pair programming with engineers
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
